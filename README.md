@@ -30,6 +30,6 @@
 
 | [![VSCode][vscodeicon]][vscodeurl] | [![Python][pythonicon]][pythonurl] | [![Jupyter][jupytericon]][jupyterurl] | [![Windows][windowsicon]][windowsurl] |
 | :-: | :-: | :-: | :-: |
-| 1.76.1 | 3.11.3 | VSCode | &nbsp;&nbsp; 10 &nbsp;&nbsp; |
+| 1.77.3 | 3.11.3 | VSCode | &nbsp;&nbsp; 10 &nbsp;&nbsp; |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
