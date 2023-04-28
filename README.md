@@ -4,16 +4,31 @@
 
 - Lab homework from HCMUS's 2023 Introduction to AI course.
 
-## Prerequisites
+## Content
+
+- `...Lab02.pdf` contains all the tasks and requirements of the project.
+- `LabReport.pdf` includes my documentation for some concepts and all the required tasks.
+- The notebook itself is already very intuitive so you can just skip straight to it.
+- The purpose of every folder is explained in the section of the notebook that it is used.
+
+## Getting Started
+
+### Prerequisites
 
 - Any IDE, preferably VSCode.
 - Python 3.11 and Jupyter package.
   - Alternatively, the `.ipynb` file can be run on Google Colab.
+- All libraries from the `Import library` section of the notebook.
 
-## Installation
+### Installation
 
 - Clone the repo.
-  
+
+## Usage
+
+- **Make sure `Import Library` is run at least once.**
+- The notebook is written in a way that each task is stand-alone. So long as all libraries are imported, it is not obligated to run through every code block sequentially.
+
 ## Built With
 
 [vscodeicon]: https://skillicons.dev/icons?i=vscode&theme=dark
